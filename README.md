@@ -1,6 +1,10 @@
-# About Me:
-I am currently finishing my 3rd and final year of a Bachelor of Science in Information and Knowledge Systems, specializing in Software Development, at the University of Pretoria.
-I love photography, fishing, and the bush. hopefully one day I could combine coding with those as my career.
+# Hi there 👋, I'm Michael Stone
+
+🎓 I'm currently in my final year of a **BSc in Information and Knowledge Systems**, specializing in **Software Development** at the **University of Pretoria**.
+
+## 💻 About Me
+- 🔭 I'm working on my final-year capstone project focused on **AI and sign language translation**
+- 👀 I love photography, fishing, and the bush. Hopefully one day I could combine them with my career. 😉😂
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-stone-7209b3216) 
